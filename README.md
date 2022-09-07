@@ -38,6 +38,9 @@ we need to time lunch? assume 45 min?
 |11:35 | **Katarina Cicak** <br/> Researcher *@* National Institute of Standards and Technology<br/> | "Evolving devices for superconducting qubit technology" |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/cicak.jpg" alt="Cicak" width="200">|Our early work to understand sources of decoherence in superconducting (SC) qubits two decades ago improved basic SC microwave circuit components and circuit connectivity, informed modern transmon qubit design, and ultimately advanced SC technology for quantum information. The push to integrate and hybridize devices in order to access, connect, and exploit the quantum across different physical realms led to high performance devices like vacuum-gap capacitor drums in optomechanics, electro-optical quantum transducers for connecting disparate quantum systems from the microwave to the optical, and quantum efficient Josephson amplifiers on a versatile fabrication platform. Here we reveal key features that enable the innovation in these devices.  The overview of the technology presented serves as a good introduction to concepts informing design and simulation of SC devices in context of processes detrimental to quantum information, like loss, noise, and decoherence. |
 
+|4:15  |Moderator<br/>**Yaniv Rosen** <br/> Quantum Physicist *@* Lawrence<br/> Livermore National Lab | **Panel Discussion** |
+|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/rosen.jpg" alt="Rosen" width="200">| |
+
 
 ### 1:00 - 2:30 Commercial Software Session
 | Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
