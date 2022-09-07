@@ -15,24 +15,20 @@ The goal of this workshop is to bring together experts in both superconducting q
 
 
 
-## Agenda
+## Agenda 
+<a href='https://qce.quantum.ieee.org/2022/home/program/program-schedule/'>agenda link <a/>
 
-### 10:00 - 11:30 First Speaker Session
-
-we need to time lunch? assume 45 min?
-### 11:30 - 12:15 Lunch? But this is before lunch. Annoying!
-
-### 12:15 - 1:00 this is when lunch should be!
-
-### 1:00 - 2:30 Second Speaker session
-
-### 3:15 - 4:45 Tool demonstration
+- 10:00 - 11:30 First Speaker Session 
+- 11:30 - 1:00 Lunch
+- 1:00 - 2:30 Second Speaker session
+- 2:30 - 3:15 (Break and Posters)
+- 3:15 - 4:45 Tool demonstration
 
 ### 10:45 - 12:15 Speaker Session 1
 | Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |5MIN | **Someone** | Introduction |
-|TIME | **Jens Koch** <br/> > Associate Professor *@* Northwestern University <br/> Co-Director, Applied Physics Graduate Program Department of Physics and Astronomy<br/> | "Computer-aided quantization and numerical analysis of custom circuits with scqubits" |
+|TIME | **Jens Koch** <br/> Associate Professor *@* Northwestern University <br/> Co-Director, Applied Physics Graduate Program Department of Physics and Astronomy<br/> | "Computer-aided quantization and numerical analysis of custom circuits with scqubits" |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/koch.png" alt="Koch" width="200"> |The development of new superconducting circuits and the improvement of existing ones rely on the accurate modeling of spectral properties key to achieving needed advances in qubit performance. Systematic circuit analysis at the lumped-element level, starting from a circuit network and culminating in a Hamiltonian appropriately describing the quantum properties of the circuit, is a well-established procedure, yet cumbersome to carry out manually for larger circuits. We discuss the circuit module extension to the open-source scqubits package which now utilizes symbolic computer algebra and numerical diagonalization routines versatile enough to tackle a variety of circuits. |
 |11:35 | **Katarina Cicak** <br/> Researcher *@* National Institute of Standards and Technology<br/> | "Evolving devices for superconducting qubit technology" |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/cicak.jpeg" alt="Cicak" width="200">|Our early work to understand sources of decoherence in superconducting (SC) qubits two decades ago improved basic SC microwave circuit components and circuit connectivity, informed modern transmon qubit design, and ultimately advanced SC technology for quantum information. The push to integrate and hybridize devices in order to access, connect, and exploit the quantum across different physical realms led to high performance devices like vacuum-gap capacitor drums in optomechanics, electro-optical quantum transducers for connecting disparate quantum systems from the microwave to the optical, and quantum efficient Josephson amplifiers on a versatile fabrication platform. Here we reveal key features that enable the innovation in these devices.  The overview of the technology presented serves as a good introduction to concepts informing design and simulation of SC devices in context of processes detrimental to quantum information, like loss, noise, and decoherence. |
@@ -44,14 +40,24 @@ we need to time lunch? assume 45 min?
 ### 10:45 - 12:15 Speaker Session 2
 | Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
-|TIME | **Archana Kamal** <br/> > Associate Professor *@* UMass Lowell <br/> | "PIQUE: a new framework for quantum systems engineering" |
+|TIME | **Archana Kamal** <br/> Associate Professor *@* UMass Lowell <br/> | "PIQUE: a new framework for quantum systems engineering" |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Kamal.jpeg" alt="Kamal" width="200"> |High-fidelity quantum state preparation, manipulation and measurement are the three cornerstones of any quantum information processing platform. In this talk I will describe a new paradigm called PIQUE (for Parametrically-Induced QUantum Engineering), which promises new functionalities to tackle all three challenges in a unified framework employing parametric interactions between quantum systems. In the first part of my talk, I will focus on how parametrically-induced interactions can be leveraged for quantum reservoir engineering, specifically high-fidelity dissipative control and scalable entanglement generation. In the second part, I will focus on some recent results on the emerging platform of “parametric circuit-QED“ that provides new mechanisms for readout and control of quantum systems. |
 |11:35 | **Amir Safavi-Naeini** <br/> Associate Professor *@* Stanford University<br/> | "TBD" |s
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Safavi.jpeg" alt="Safavi" width="200">|TBD. |
 |11:35 | **Holger Haas** <br/> Research Staff Member *@* IBM Quantum<br/> | "TBD" |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Holger.png" alt="Holger" width="200">|TBD. |
-|4:15  |Moderator<br/>**John Teufel** <br/> Quantum Physicist *@*  National Institute of Standards and Technology | **Panel Discussion** |
-|      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Teufel.jpeg" alt="Teufel" width="200">| |
+|4:15  |Moderator<br/>**Michael Hush** <br/> Chief Science Officer *@*  Q-Ctrl | **Panel Discussion** |
+|      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Hush.jpeg" alt="Hush" width="200">| |
+
+### 2:30 - 4:14 Tool demonstration
+| Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
+|------|---------|-------|
+|TIME | **Ziwen Huang** <br/>  Research Associate @ Fermilab <br/> | "Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures" |
+|      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Huang.jpeg" alt="Huang" width="200"> |The optimization of the design of the superconducting circuits, including their structure, geometry, size, choice of material, etc., is key toward noise-resilient quantum computation. An efficient simulation tool that predicts the qubit parameters and performance under these specifications will not only save significant amount of experimental resource, but also enable more efficient exploration on novel experimental designs. In this talk, I first summarize the efforts on designing superconducting resonators at SQMS using Qiskit Metal and present the measurements on these devices. We explicitly show how Metal makes the designing more convenient. Second, I show some newly proposed designs, and present the simulation results by Metal. Finally, future efforts at SQMS on not only 2D but also 3D designs using this toolkit will be discussed.. |
+|11:35 | **Yehan Liu and Patrick O'Brien** <br/> Quantum Software @ IBM Quantum<br/> | "TBD" |s
+|      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/yehanPatrick.jpeg" alt="tbd" width="200">|TBD. |
+|11:35 | **Daniel Puzzuoli and Benjamin Rosand** <br/> Quantum Software *@* IBM Quantum<br/> | "TBD" |
+|      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/benDan.png" alt="TBD" width="200">|TBD. |
 
 
 ### Organizers
