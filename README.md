@@ -1,9 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
 # Design and Simulation of Superconducting Qubits
 @ IEEE Quantum Week 2022
 
