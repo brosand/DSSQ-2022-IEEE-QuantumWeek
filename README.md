@@ -1,10 +1,10 @@
 # Design and Simulation of Superconducting Qubits
+
 @ IEEE Quantum Week 2022
 
-Registration available at https://qce.quantum.ieee.org/registration/.
+Registration available at <https://qce.quantum.ieee.org/registration/>.
 
 10:00-16:45 Mountain Time (MDT), Thursday, Sept 22, 2022
-
 
 ## Abstract
 
@@ -12,19 +12,18 @@ Superconducting qubits are a leading modality in quantum computing. Innovation i
 
 The goal of this workshop is to bring together experts in both superconducting qubit design and quantum system simulation to share their expertise. In the first session, leaders in both fields are invited to present the state of the art. The second session will follow this up with more pedagogically focused presentations on the foundational topics in superconducting qubit design, and quantum system simulation and optimization, providing a theoretical foundation for those new to either field. Finally, the third session will consist of a practical demonstration of these principles, using the open source software tools Qiskit Metal and Qiskit Dynamics to walk through an example of the design and optimization process from start to finish. More integrated tools for system design and simulation processes have the potential to streamline the iterative prototyping process, leading to more rapid innovation.
 
+## Agenda
 
-
-
-## Agenda 
 <a href='https://qce.quantum.ieee.org/2022/home/program/program-schedule/'>agenda link <a/>
 
-- 10:00 - 11:30 First Speaker Session 
+- 10:00 - 11:30 First Speaker Session
 - 11:30 - 1:00 Lunch
 - 1:00 - 2:30 Second Speaker session
 - 2:30 - 3:15 (Break and Posters)
 - 3:15 - 4:45 Tool demonstration
 
 ### 10:45 - 12:15 Speaker Session 1
+
 | Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |10:00 | **Someone (Ben can do this unless someone else wants to)** | Introduction |
@@ -38,6 +37,7 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Teufel.jpeg" alt="Teufel" width="200">| |
 
 ### 1:00 - 2:30 Speaker Session 2
+
 | Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |1:00 | **Archana Kamal** <br/> Associate Professor *@* UMass Lowell <br/> | "PIQUE: a new framework for quantum systems engineering" |
@@ -50,6 +50,7 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Hush.jpeg" alt="Hush" width="200">| |
 
 ### 2:30 - 4:15 Tool demonstration
+
 | Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |2:30 | **Ziwen Huang** <br/>  Research Associate @ Fermilab <br/> | "Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures" |
@@ -58,7 +59,6 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/tbd.jpeg" alt="tbd" width="200">|TBD. |
 |3:30 | **Daniel Puzzuoli and Benjamin Rosand** <br/> Quantum Software *@* IBM Quantum<br/> | "TBD" |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/tbd.png" alt="TBD" width="200">|TBD. |
-
 
 ### Organizers
 
