@@ -58,43 +58,7 @@ The goal of this workshop is to bring together experts in both superconducting q
 |2:00  |Moderator<br/><b><a href='https://scholar.google.com.au/citations?user=CxoASb4AAAAJ&hl=en'>Michael Hush<a/><b/> <br/> Chief Science Officer *@*  Q-Ctrl | **Panel Discussion** |
 |      | <img src="Resources/Hush.jpeg" alt="Hush" width="200">| |
 {: .tablelines}
-<!-- 
-<table>
-  <tr>
-    <th>Time</th>
-    <th>Speaker(s)</th>
-    <th>Topic <th>
-  </tr>
-  <tr>
-    <td>1:00
-    <td><a href='https://www.uml.edu/sciences/physics/faculty/kamal-archana.aspx'><b>Archana Kamal</b></a></td>
-    <td>"Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures"</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="2"><img src='Resources/Huang.jpeg' alt="O'Brien" width="200"></td>
-    <td>The optimization of the design of the superconducting circuits, including their structure, geometry, size, choice of material, etc., is key toward noise-resilient quantum computation. An efficient simulation tool that predicts the qubit parameters and performance under these specifications will not only save significant amount of experimental resource, but also enable more efficient exploration on novel experimental designs. In this talk, I first summarize the efforts on designing superconducting resonators at SQMS using Qiskit Metal and present the measurements on these devices. We explicitly show how Metal makes the designing more convenient. Second, I show some newly proposed designs, and present the simulation results by Metal. Finally, future efforts at SQMS on not only 2D but also 3D designs using this toolkit will be discussed.</td>
-  </tr>
 
-</table>
-BREAK_______
-<table>
-  <tr>
-    <th>Time</th>
-    <th>Speaker(s)</th>
-    <th>Topic <th>
-  </tr>
-  <tr>
-    <td>1:00
-    <td><a href='https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en'><b>Ziwen Huang</b></a></td>
-    <td>"Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures"</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="2"><img src='Resources/Huang.jpeg' alt="O'Brien" width="200"></td>
-    <td>The optimization of the design of the superconducting circuits, including their structure, geometry, size, choice of material, etc., is key toward noise-resilient quantum computation. An efficient simulation tool that predicts the qubit parameters and performance under these specifications will not only save significant amount of experimental resource, but also enable more efficient exploration on novel experimental designs. In this talk, I first summarize the efforts on designing superconducting resonators at SQMS using Qiskit Metal and present the measurements on these devices. We explicitly show how Metal makes the designing more convenient. Second, I show some newly proposed designs, and present the simulation results by Metal. Finally, future efforts at SQMS on not only 2D but also 3D designs using this toolkit will be discussed.</td>
-  </tr>
- </table> -->
 
 ### 3:15 - 4:45 Tool demonstration
 
