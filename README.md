@@ -1,3 +1,8 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 # Design and Simulation of Superconducting Qubits
 
 @ IEEE Quantum Week 2022
@@ -35,6 +40,7 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Kou.png" alt="Kou" width="200">|Hybrid superconducting circuits, which integrate non-superconducting elements into a circuit quantum electrodynamics (cQED) architecture expand the possible applications of cQED. For example, superconducting devices coupled to semiconducting spin qubits would enable long-distance coupling between long-lifetime spin qubits. Proper design of hybrid devices, however, require simulations of both the superconducting device and the non-superconducting elements. In this talk, I will discuss our experimental work coupling an Andreev spin qubit (ASQ) to a superconducting transmon and the associated theoretical work necessary to design our devices. We first use the transmon to perform spectroscopy on the ground states of a quantum dot with superconducting leads and map out the phase diagram of the superconductor-quantum dot-superconductor device. We then use the spin-split doublet ground state of S-QD-S device to form our ASQ and demonstrate direct coherent manipulation of the ASQ with Rabi rates of up to 200 MHz. Finally, we strongly coherently couple the ASQ to the transmon, which paves the way toward using superconducting devices to mediate interactions between distant ASQs. |
 |10:50  |Moderator<br/>**John Teufel** <br/> Quantum Physicist *@*  National Institute of Standards and Technology | **Panel Discussion** |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Teufel.jpeg" alt="Teufel" width="200">| |
+{: .tablelines}
 
 ### 1:00 - 2:30 Speaker Session 2
 
@@ -48,6 +54,7 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Holger.png" alt="Holger" width="200">|TBD. |
 |1:45  |Moderator<br/>**Michael Hush** <br/> Chief Science Officer *@*  Q-Ctrl | **Panel Discussion** |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/Hush.jpeg" alt="Hush" width="200">| |
+{: .tablelines}
 
 ### 2:30 - 4:15 Tool demonstration
 
@@ -59,6 +66,7 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/tbd.jpeg" alt="tbd" width="200">|TBD. |
 |3:30 | **Daniel Puzzuoli and Benjamin Rosand** <br/> Quantum Software *@* IBM Quantum<br/> | "TBD" |
 |      | <img src="https://github.com/brosand/DSSQ-2022-IEEE-QuantumWeek/blob/main/Resources/tbd.png" alt="TBD" width="200">|TBD. |
+{: .tablelines}
 
 ### Organizers
 
