@@ -21,30 +21,13 @@ The goal of this workshop is to bring together experts in both superconducting q
 
 ## Agenda
 
-<a href='https://qce.quantum.ieee.org/2022/home/program/program-schedule/'>agenda link <a/>
+<a href='https://qce.quantum.ieee.org/2022/home/program/program-schedule/'>Full IEEE Quantum Week Agenda<a/>
 
 - 10:00 - 11:30 First Speaker Session
-- 11:30 - 1:00 Lunch
+- 11:30 - 1:00 Lunch (General IEEE Quantum event)
 - 1:00 - 2:30 Second Speaker session
-- 2:30 - 3:15 (Break and Posters)
+- 2:30 - 3:15 Break and Posters (General IEEE Quantum event)
 - 3:15 - 4:45 Tool demonstration
-
-### 10:45 - 12:15 Speaker Session 1
-Trying the dropdown:
-
-<details open>
-<summary>10:00 -- Ben Rosand -- Introduction</summary>
-<br>
-Well, you asked for it!
-</details>
-
-<details open>
-<summary>10:05 -- Jens Koch -- Computer aided Quantization...</summary>
-<br>
-Associate Professor...
-image
-long abstract here
-</details>
 
 
 ### 10:45 - 12:15 Speaker Session 1
