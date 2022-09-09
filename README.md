@@ -59,7 +59,6 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="Resources/Hush.jpeg" alt="Hush" width="200">| |
 {: .tablelines}
 
-
 ### 3:15 - 4:45 Tool demonstration
 
 <table>
@@ -103,7 +102,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
 
   <tr>
-    <td></td>
+    <td> </td>
     <td><img src='Puzzuoli_link' alt="Puzzuoli" width="100"></td>
     <td><img src='Rosand_link' alt="Rosand" width="100"></td>
     <td>TBD abstract</td>
