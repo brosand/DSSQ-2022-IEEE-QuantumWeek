@@ -61,7 +61,7 @@ The goal of this workshop is to bring together experts in both superconducting q
 
 ### 3:15 - 4:45 Tool demonstration
 
-| Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
+<!-- | Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |3:15 | <b>Yehan Liu and Patrick O'Brien<b/> <br/> Quantum Software @ IBM Quantum<br/> | "TBD" |s
 |      | <img src="Resources/tbd.jpeg" alt="tbd" width="200">|TBD. |
@@ -69,7 +69,54 @@ The goal of this workshop is to bring together experts in both superconducting q
 |      | <img src="Resources/Huang.jpeg" alt="Huang" width="200"> |The optimization of the design of the superconducting circuits, including their structure, geometry, size, choice of material, etc., is key toward noise-resilient quantum computation. An efficient simulation tool that predicts the qubit parameters and performance under these specifications will not only save significant amount of experimental resource, but also enable more efficient exploration on novel experimental designs. In this talk, I first summarize the efforts on designing superconducting resonators at SQMS using Qiskit Metal and present the measurements on these devices. We explicitly show how Metal makes the designing more convenient. Second, I show some newly proposed designs, and present the simulation results by Metal. Finally, future efforts at SQMS on not only 2D but also 3D designs using this toolkit will be discussed. |
 |4:10 | <b>Daniel Puzzuoli and Benjamin Rosand<b/> <br/> Quantum Software *@* IBM Quantum<br/> | "TBD" |
 |      | <img src="Resources/tbd.png" alt="TBD" width="200">|TBD. |
-{: .tablelines}
+{: .tablelines} -->
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th colspan="2">Speaker(s)</th>
+    <th>Topic <th>
+  </tr>
+
+  <tr>
+    <td>3:15
+    <td>Yehan</td>
+    <td>Patrick</td>
+    <td>TBD Topic</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src='Yehan_LINK' alt="Liu" width="100"></td>
+    <td><img src='Patrick_LINK' alt="O'Brien" width="100"></td>
+    <td>TBD abstract</td>
+  </tr>
+
+  <tr>
+    <td>3:50
+    <td colspan="2">Ziwen Huang</td>
+    <td>"Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures"</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"><img src='Resources/Huang.jpeg' alt="O'Brien" width="200"></td>
+    <td>The optimization of the design of the superconducting circuits, including their structure, geometry, size, choice of material, etc., is key toward noise-resilient quantum computation. An efficient simulation tool that predicts the qubit parameters and performance under these specifications will not only save significant amount of experimental resource, but also enable more efficient exploration on novel experimental designs. In this talk, I first summarize the efforts on designing superconducting resonators at SQMS using Qiskit Metal and present the measurements on these devices. We explicitly show how Metal makes the designing more convenient. Second, I show some newly proposed designs, and present the simulation results by Metal. Finally, future efforts at SQMS on not only 2D but also 3D designs using this toolkit will be discussed.</td>
+  </tr>
+
+  <tr>
+    <td>4:10
+    <td>Daniel</td>
+    <td>Ben</td>
+    <td>TBD Topic</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td><img src='Puzzuoli_link' alt="Puzzuoli" width="100"></td>
+    <td><img src='Rosand_link' alt="Rosand" width="100"></td>
+    <td>TBD abstract</td>
+</table>
 
 ### Organizers
 
