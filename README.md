@@ -64,14 +64,14 @@ The goal of this workshop is to bring together experts in both superconducting q
   <tbody>
   <tr>
     <td>3:15</td>
-    <td><a href="YEHAN"><b>Yehan Liu</b></a><br>IBM Quantum</td>
-    <td><a href="PATRICKLINK"><b>Patrick O'Brien</b></a><br>IBM Quantum</td>
+    <td colspan="2"><a href="YEHAN"><b>Yehan Liu</b></a><br>IBM Quantum</td>
+    <!-- <td><a href="PATRICKLINK"><b>Patrick O'Brien</b></a><br>IBM Quantum</td> -->
     <td>TBD Topic</td>
   </tr>
   <tr>
     <td></td>
-    <td><img src='Resources/Liu.jpeg' alt="Liu" width="100"></td>
-    <td><img src='Resources/OBrien.jpeg' alt="O'Brien" width="100"></td>
+    <td colspan="2"><img src='Resources/Liu.jpeg' alt="Liu" width="100"></td>
+    <!-- <td><img src='Resources/OBrien.jpeg' alt="O'Brien" width="100"></td> -->
     <td>TBD abstract</td>
   </tr>
   <tr>
