@@ -66,13 +66,13 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td>3:15</td>
     <td colspan="2"><a href="https://scholar.google.com/citations?user=kih5-60AAAAJ"><b>Yehan Liu</b></a><br>IBM Quantum</td>
     <!-- <td><a href="PATRICKLINK"><b>Patrick O'Brien</b></a><br>IBM Quantum</td> -->
-    <td>TBD Topic</td>
+    <td>"Design of interacting superconducting quantum circuits with Qiskit Metal and Quantum Spice"</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><img src='Resources/Liu.jpeg' alt="Liu" width="100"></td>
+    <td colspan="2"><img src='Resources/Liu.png' alt="Liu" width="100"></td>
     <!-- <td><img src='Resources/OBrien.jpeg' alt="O'Brien" width="100"></td> -->
-    <td>TBD abstract</td>
+    <td>The remarkable growth in the field of quantum information processing increasingly requires precise, widely applicable, and modular methods that can model the quantum electrodynamics of the physical circuits, including their more-subtle renormalization effects. Here, we present a practical demonstration of a computationally efficient method satisfying these criteria. The method partitions a quantum device into compact lumped or quasi-distributed cells. Each is first simulated individually. The composite system is then reduced and mapped to a set of simple subsystem building blocks and their pairwise interactions. We demonstrate the versatility of this approach by several examples in a full stack workflow, from device layout to electromagnetic simulation, then to Hamiltonian analysis.<br>In this talk, we will showcase both the Qiskit Metal workflow and our latest Quantum Spice web app.</td>
   </tr>
   <tr>
     <td>3:50</td>
@@ -101,13 +101,13 @@ The goal of this workshop is to bring together experts in both superconducting q
 
 ### Organizers
 
-Benjamin Rosand: IBM Quantum, USA
+[Benjamin Rosand]("https://www.linkedin.com/in/benjamin-rosand"): IBM Quantum, USA
 
-Patrick O'Brien: IBM Quantum, USA
+[Patrick O'Brien]("https://www.linkedin.com/in/patrick-obrien-phd/?trk=public_profile_browsemap"): IBM Quantum, USA
 
-Yehan Liu: IBM Quantum, USA
+[Yehan Liu]("https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en"): IBM Quantum, USA
 
-Daniel Puzzuoli: IBM Quantum, Canada
+[Daniel Puzzuoli]("https://scholar.google.ca/citations?user=sRExdr0AAAAJ"): IBM Quantum, Canada
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
