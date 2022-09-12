@@ -71,7 +71,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   </thead>
   <tbody>
   <tr>
-    <td>3:15
+    <td>3:15</td>
     <td>Yehan Liu</td>
     <td>Patrick O'Brien</td>
     <td>TBD Topic</td>
