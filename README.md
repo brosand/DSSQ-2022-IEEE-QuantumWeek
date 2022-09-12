@@ -62,14 +62,11 @@ The goal of this workshop is to bring together experts in both superconducting q
 ### 3:15 - 4:45 Tool demonstration
 
 <table>
-<thead>
   <tr>
-    <td>Time</td>
-    <td colspan="2">Speaker(s)</td>
-    <td>Topic <td>
+    <th>Time</th>
+    <th colspan="2">Speaker(s)</th>
+    <th>Topic <th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>3:15
     <td>Yehan Liu</td>
@@ -106,7 +103,6 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td><img src='Rosand_link' alt="Rosand" width="100"></td>
     <td>TBD abstract</td>
   </tr>
-</tbody>
 </table>
 
 ### Organizers
