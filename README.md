@@ -64,8 +64,8 @@ The goal of this workshop is to bring together experts in both superconducting q
   <tbody>
   <tr>
     <td>3:15</td>
-    <td><a href="YEHAN"><b>Yehan Liu</b></a></br>IBM Quantum</td>
-    <td><a href="PATRICKLINK"><b>Patrick O'Brien</b></a></br>IBM Quantum</td>
+    <td><a href="YEHAN"><b>Yehan Liu</b></a><br>IBM Quantum</td>
+    <td><a href="PATRICKLINK"><b>Patrick O'Brien</b></a><br>IBM Quantum</td>
     <td>TBD Topic</td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
   <tr>
     <td>3:50</td>
-    <td colspan="2"><a href='https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en'><b>Ziwen Huang</b></a></br>Research Associate *@* Fermilab</td>
+    <td colspan="2"><a href='https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en'><b>Ziwen Huang</b></a><br>Research Associate *@* Fermilab</td>
     <td>"Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures"</td>
   </tr>
   <tr>
@@ -86,8 +86,8 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
   <tr>
     <td>4:10</td>
-    <td><a href="DAN"><b>Daniel Puzzuoli</b></a><br/>IBM Quantum</td>
-    <td><a href="https://www.linkedin.com/in/benjamin-rosand"><b>Benjamin Rosand</b></a><br/>IBM Quantum</td>
+    <td><a href="DAN"><b>Daniel Puzzuoli</b></a><br>IBM Quantum</td>
+    <td><a href="https://www.linkedin.com/in/benjamin-rosand"><b>Benjamin Rosand</b></a><br>IBM Quantum</td>
     <td>TBD Topic</td>
   </tr>
   <tr>
