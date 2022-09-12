@@ -16,11 +16,11 @@ The goal of this workshop is to bring together experts in both superconducting q
 
 <a href='https://qce.quantum.ieee.org/2022/home/program/program-schedule/'>Full IEEE Quantum Week Agenda<a/>
 
-- 10:00 - 11:30 First Speaker Session
+- 10:00 - 11:30 [First Speaker Session](#1045---1215-speaker-session-1)
 - 11:30 - 1:00 Lunch (General IEEE Quantum event)
-- 1:00 - 2:30 Second Speaker session
+- 1:00 - 2:30 [Second Speaker session](#100---230-speaker-session-2)
 - 2:30 - 3:15 Break and Posters (General IEEE Quantum event)
-- 3:15 - 4:45 Tool demonstration
+- 3:15 - 4:45 [Tool demonstration](#315---445-tool-demonstration)
 
 ### 10:45 - 12:15 Speaker Session 1
 
@@ -64,8 +64,8 @@ The goal of this workshop is to bring together experts in both superconducting q
   <tbody>
   <tr>
     <td>3:15</td>
-    <td>Yehan Liu</td>
-    <td>Patrick O'Brien</td>
+    <td><a href="YEHAN"><b>Yehan Liu</b></a></br>IBM Quantum</td>
+    <td><a href="PATRICKLINK"><b>Patrick O'Brien</b></a></br>IBM Quantum</td>
     <td>TBD Topic</td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
   <tr>
     <td>3:50</td>
-    <td colspan="2"><a href='https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en'><b>Ziwen Huang</b></a></td>
+    <td colspan="2"><a href='https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en'><b>Ziwen Huang</b></a></br>Research Associate *@* Fermilab</td>
     <td>"Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures"</td>
   </tr>
   <tr>
@@ -86,8 +86,8 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
   <tr>
     <td>4:10</td>
-    <td>Daniel Puzzuoli</td>
-    <td>Benjamin Rosand</td>
+    <td><a href="DAN"><b>Daniel Puzzuoli</b></a><br/>IBM Quantum</td>
+    <td><a href="https://www.linkedin.com/in/benjamin-rosand"><b>Benjamin Rosand</b></a><br/>IBM Quantum</td>
     <td>TBD Topic</td>
   </tr>
   <tr>
