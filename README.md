@@ -100,8 +100,8 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td><img src='Puzzuoli_link' alt="Puzzuoli" width="100"></td>
     <td><img src='Rosand_link' alt="Rosand" width="100"></td>
     <td>TBD abstract</td>
-  </tr>
-</table>
+  <!-- </tr> -->
+<!-- </table> -->
 
 ### Organizers
 
