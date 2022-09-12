@@ -81,7 +81,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
   <tr>
     <td>3:50
-    <td><a href='https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en'><b>Ziwen Huang</b></a></td>
+    <td colspan="2"><a href='https://scholar.google.com/citations?user=YW1hekQAAAAJ&hl=en'><b>Ziwen Huang</b></a></td>
     <td>"Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures"</td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td>TBD Topic</td>
   </tr>
   <tr>
-    <td> </td>
+    <td></td>
     <td><img src='Puzzuoli_link' alt="Puzzuoli" width="100"></td>
     <td><img src='Rosand_link' alt="Rosand" width="100"></td>
     <td>TBD abstract</td>
