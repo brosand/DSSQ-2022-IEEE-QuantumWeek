@@ -65,7 +65,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   <tr>
     <th>Time</th>
     <th colspan="2">Speaker(s)</th>
-    <th>Topic <th>
+    <th>Topic </th>
   </tr>
   <tr>
     <td>3:15
