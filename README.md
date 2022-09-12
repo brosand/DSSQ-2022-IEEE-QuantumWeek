@@ -1,11 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        overflow-x: auto;
-        }
-
-</style>
-
 # Design and Simulation of Superconducting Qubits
 
 @ IEEE Quantum Week 2022
@@ -107,8 +99,6 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tbody>
 </table>
 
-TIMESTAMP: 1054
-
 ### Organizers
 
 Benjamin Rosand: IBM Quantum, USA
@@ -118,3 +108,11 @@ Patrick O'Brien: IBM Quantum, USA
 Yehan Liu: IBM Quantum, USA
 
 Daniel Puzzuoli: IBM Quantum, Canada
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        overflow-x: auto;
+        }
+
+</style>
