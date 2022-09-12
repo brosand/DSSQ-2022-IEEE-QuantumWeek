@@ -70,7 +70,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><img src='Resources/Liu.png' alt="Liu" width="100"></td>
+    <td colspan="2"><img src='Resources/Liu.png' alt="Liu" width="200"></td>
     <!-- <td><img src='Resources/OBrien.jpeg' alt="O'Brien" width="100"></td> -->
     <td>The remarkable growth in the field of quantum information processing increasingly requires precise, widely applicable, and modular methods that can model the quantum electrodynamics of the physical circuits, including their more-subtle renormalization effects. Here, we present a practical demonstration of a computationally efficient method satisfying these criteria. The method partitions a quantum device into compact lumped or quasi-distributed cells. Each is first simulated individually. The composite system is then reduced and mapped to a set of simple subsystem building blocks and their pairwise interactions. We demonstrate the versatility of this approach by several examples in a full stack workflow, from device layout to electromagnetic simulation, then to Hamiltonian analysis.<br>In this talk, we will showcase both the Qiskit Metal workflow and our latest Quantum Spice web app.</td>
   </tr>
@@ -88,13 +88,13 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td>4:10</td>
     <td><a href="https://scholar.google.ca/citations?user=sRExdr0AAAAJ"><b>Daniel Puzzuoli</b></a><br>IBM Quantum</td>
     <td><a href="https://www.linkedin.com/in/benjamin-rosand"><b>Benjamin Rosand</b></a><br>IBM Quantum</td>
-    <td>TBD Topic</td>
+    <td>"Simulating quantum systems with Qiskit Dynamics"</td>
   </tr>
   <tr>
     <td></td>
-    <td><img src='Resources/Puzzuoli.jpeg' alt="Puzzuoli" width="100"></td>
-    <td><img src='Resources/Rosand.jpeg' alt="Rosand" width="100"></td>
-    <td>TBD abstract</td>
+    <td><img src='Resources/Puzzuoli.jpeg' alt="Puzzuoli" width="200"></td>
+    <td><img src='Resources/Rosand.jpeg' alt="Rosand" width="200"></td>
+    <td>Classical simulation is an important tool for understanding and controlling quantum devices, and can be a component of the design process itself. In this domain, performance is critical; the more simulations you can do per unit time, the more advanced workflows you can implement. As every simulation problem is different, and speed is impacted by many factors, optimizing performance of simulations requires finding the right configuration of numerical tools best suited to the problem. In this talk, we outline various numerical tools and how they can impact performance, from different algorithms to modern numerical linear algebra packages. We will then introduce the Qiskit Dynamics package, an open source Python package for simulating Hamiltonian and Lindblad dynamics, which has been designed to enable a variety of numerical tool configurations. We will end with a Qiskit Dynamics demo, with a focus on showing how to specify simulation problems, and configure them in the ways described throughout the talk.</td>
   </tr>
   </tbody>
 </table>
