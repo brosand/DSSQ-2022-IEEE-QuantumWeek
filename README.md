@@ -74,8 +74,6 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td>TBD Topic</td>
   </tr>
   <tr>
-  </tr>
-  <tr>
     <td></td>
     <td><img src='Yehan_LINK' alt="Liu" width="100"></td>
     <td><img src='Patrick_LINK' alt="O'Brien" width="100"></td>
