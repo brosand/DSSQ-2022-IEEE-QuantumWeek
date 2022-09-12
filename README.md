@@ -64,7 +64,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   <tbody>
   <tr>
     <td>3:15</td>
-    <td colspan="2"><a href="YEHAN"><b>Yehan Liu</b></a><br>IBM Quantum</td>
+    <td colspan="2"><a href="https://scholar.google.com/citations?user=kih5-60AAAAJ"><b>Yehan Liu</b></a><br>IBM Quantum</td>
     <!-- <td><a href="PATRICKLINK"><b>Patrick O'Brien</b></a><br>IBM Quantum</td> -->
     <td>TBD Topic</td>
   </tr>
@@ -86,7 +86,7 @@ The goal of this workshop is to bring together experts in both superconducting q
   </tr>
   <tr>
     <td>4:10</td>
-    <td><a href="DAN"><b>Daniel Puzzuoli</b></a><br>IBM Quantum</td>
+    <td><a href="https://scholar.google.ca/citations?user=sRExdr0AAAAJ"><b>Daniel Puzzuoli</b></a><br>IBM Quantum</td>
     <td><a href="https://www.linkedin.com/in/benjamin-rosand"><b>Benjamin Rosand</b></a><br>IBM Quantum</td>
     <td>TBD Topic</td>
   </tr>
