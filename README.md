@@ -77,9 +77,9 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td>TBD Topic</td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src='Yehan_LINK' alt="Liu" width="100"></td>
-    <td><img src='Patrick_LINK' alt="O'Brien" width="100"></td>
+    <td>_</td>
+    <td><img src='Resources/Liu.jpeg' alt="Liu" width="100"></td>
+    <td><img src='Resources/OBrien.jpeg' alt="O'Brien" width="100"></td>
     <td>TBD abstract</td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td>"Using Qiskit Metal to assist quantum device designing on 2D and 3D architectures"</td>
   </tr>
   <tr>
-    <td></td>
+    <td>_</td>
     <td colspan="2"><img src='Resources/Huang.jpeg' alt="Huang" width="200"></td>
     <td>The optimization of the design of the superconducting circuits, including their structure, geometry, size, choice of material, etc., is key toward noise-resilient quantum computation. An efficient simulation tool that predicts the qubit parameters and performance under these specifications will not only save significant amount of experimental resource, but also enable more efficient exploration on novel experimental designs. In this talk, I first summarize the efforts on designing superconducting resonators at SQMS using Qiskit Metal and present the measurements on these devices. We explicitly show how Metal makes the designing more convenient. Second, I show some newly proposed designs, and present the simulation results by Metal. Finally, future efforts at SQMS on not only 2D but also 3D designs using this toolkit will be discussed.</td>
   </tr>
@@ -99,9 +99,9 @@ The goal of this workshop is to bring together experts in both superconducting q
     <td>TBD Topic</td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src='Puzzuoli_link' alt="Puzzuoli" width="100"></td>
-    <td><img src='Rosand_link' alt="Rosand" width="100"></td>
+    <td>_</td>
+    <td><img src='Resources/Puzzuoli.jpeg' alt="Puzzuoli" width="100"></td>
+    <td><img src='Resources/Rosand.jpeg' alt="Rosand" width="100"></td>
     <td>TBD abstract</td>
   </tr>
   </tbody>
