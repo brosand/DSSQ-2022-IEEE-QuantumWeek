@@ -101,11 +101,10 @@ The goal of this workshop is to bring together experts in both superconducting q
 
 ### Organizers
 
-<a href="https://www.linkedin.com/in/benjamin-rosand"><b>Benjamin Rosand: IBM Quantum, USA</b></a>
-<a href="https://www.linkedin.com/in/patrick-obrien-phd"><b>Patrick O'Brien: IBM Quantum, USA</b></a>
-<a href="https://scholar.google.com/citations?user=YW1hekQAAAAJ"><b>Yehan Liu: IBM Quantum, USA</b></a>
-<a href="https://scholar.google.ca/citations?user=sRExdr0AAAAJ"><b>Daniel Puzzuoli: IBM Quantum, Canada</b></a>
-
+<a href="https://www.linkedin.com/in/benjamin-rosand"><b>Benjamin Rosand: IBM Quantum, USA</b></a><br>
+<a href="https://www.linkedin.com/in/patrick-obrien-phd"><b>Patrick O'Brien: IBM Quantum, USA</b></a><br>
+<a href="https://scholar.google.com/citations?user=YW1hekQAAAAJ"><b>Yehan Liu: IBM Quantum, USA</b></a><br>
+<a href="https://scholar.google.ca/citations?user=sRExdr0AAAAJ"><b>Daniel Puzzuoli: IBM Quantum, Canada</b></a><br>
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
